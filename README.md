@@ -6,7 +6,7 @@
 
 int main()
 {
-	int x, y, a = 0, b = 0, one = 1, two = 0, counter = 1;
+	int x, y, one = 1;
 	int sum;
 	printf("please enter %d x %d numbers.\n", row, colume);
 	int mtrx[row][colume];
